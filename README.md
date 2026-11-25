@@ -11,13 +11,15 @@ Solução desenvolvida para modernizar o atendimento da **Clínica SaúdeDigital
 * **Aplicação CRUD:** [Colocar linguagem/framework usado, ex: Python + Streamlit]
 
 ## 📂 Estrutura do Repositório
-* `/diagramas` — Diagrama Entidade-Relacionamento (DER)
-* `/sql` — Scripts DDL (criação), DML (carga de dados) e DQL (consultas)
+* `/diagramas` — Diagrama Entidade-Relacionamento (DER) em imagem e código Mermaid
+* `/sql` — Scripts modulares: `01_ddl_estrutura.sql`, `02_dml_dados.sql` e `03_dql_consultas.sql`
 * `/app` — Código-fonte da aplicação CRUD
 
 ## 👥 Integrantes da Equipe
-* [Seu Nome Completo]
-* [Nome Completo Colega 1]
-* [Nome Completo Colega 2]
-* [Nome Completo Colega 3]
-* 
+* Gabriel Nunes Rosa
+* Gabriel Pereira dos Santos
+* Ísis Tupinambá
+* Italo Henrique Brasileiro Santana
+* Juan Gabriel de Almeida Silva
+* Necivaldo Eglon da Silva Barroso
+* Nicolas Emanuel Santiago da Silva
